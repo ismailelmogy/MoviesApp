@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Alamofire.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Cosmos.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-MoviesApp.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SDWebImage.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>3383968E74B5371B20BB519B170DC7FD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5802743ADAD46D7639B502EF828A815B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>64A5B0D84D8579CF3E24DF2C12D99B08</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A4AE0BEDDC20EDD5256789FF0A70EFB1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
